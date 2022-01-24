@@ -19,7 +19,7 @@ Note:- Before Starting with this Project, Please make sure you have installed la
 Clone the project
 
 ```bash
-  git clone https://github.com/iamkanishka/Node-Express-Mongo-Mongoose-JWT.git
+  git clone https://github.com/iamkanishka/nestmongodbcrud.git
 ```
 
 Go to the project directory
